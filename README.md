@@ -1,1 +1,0 @@
-# Finding_wind_path
