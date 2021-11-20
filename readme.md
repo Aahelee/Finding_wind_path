@@ -1,4 +1,4 @@
-# Finding_wind_path
+# Finding wind path for any location using ERA5 monthly averaged data
 
 In this project, the monthly wind path is tracked for any location inside the border of Bangladesh. The wind path can either end at the target point or start from it.
 
