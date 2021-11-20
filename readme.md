@@ -10,7 +10,7 @@ The datasets are then converted to CSV format. The CSV files are u10 and v10, re
 3.The file "position_densified" contains the points along the Himalayan ridgeline and the Bay of Bengal.
 
 
-# Problem Statement
+# Project Description
 
 The direction and path of the wind can be a significant factor in the overall climatic condition. For example, during the rainy season in Bangladesh, the monsoon wind carries moisture in this region and causes rainfall. This wind comes from the southeast crossing the coastline of the Bay of Bengal. Here the target area is within 84°-96° E longitude and 19°-28° N latitude. 
 
